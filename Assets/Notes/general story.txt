@@ -1,0 +1,64 @@
+1st day -> 1st night -> 2nd day -> 2nd night -> 3rd day -> 3rd night
+
+1ST DAY
+-Run around, talk to people
+-Invade hero's tent, look at stuff
+-Report to king
+-Advancement: Sleep
+
+1ST NIGHT
+-Sabotoge items
+-Advancement: Exit woods then sleep
+
+2ND DAY
+-Hero invades
+-Run around, talk to people
+-Invade hero's tent again
+-Advancement: Sleep
+
+2ND NIGHT
+-Sabotoge items
+-Report to king, talk to other people
+-Advancement: Exit woods then sleep
+
+3RD DAY
+-Hero invades
+-Run around, talk to people
+Advancement: Sleep
+
+3RD NIGHT
+-Invade hero's tent
+-Hero wakes up and finds player
+-Some endings occur
+
+------------------------------
+THE SPECIFICS
+------------------------------
+
+1ST DAY
+-Run around, talk to people
+-To advance: Talk to the scout, he will escort you to tent
+-In the tent: Potions, and a sword
+	-To advance: Exit the woods
+-Talk to potion master, ask him to make poison
+-Talk to king, recommend shields
+-Sleep
+
+1ST NIGHT
+-Start: In the woods
+-Sabotoge potions
+-Sleep
+
+2ND DAY
+-Hero invades
+-Run around, talk to people
+-To advance: Talk to the scout again, he will escort you to tent
+-In the tent: Magic book
+
+2ND NIGHT
+-Same as 1st night
+
+3RD DAY
+Hero invades
+Go to tent
+Endings
